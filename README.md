@@ -1,2 +1,2 @@
 # ITC
-This repazitoria in homeworks
+This is a simple repository for homework ;)
